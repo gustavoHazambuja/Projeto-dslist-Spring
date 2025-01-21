@@ -1,9 +1,12 @@
-package com.devsuperior.dslist;
+package com.devsuperior.dslist.repositories;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
+import com.devsuperior.dslist.dto.GameMinDTO;
+import com.devsuperior.dslist.entities.Game;
 
 @Service
 public class GameService {
