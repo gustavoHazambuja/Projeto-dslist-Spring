@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.devsuperior.dslist.dto.GameMinDTO;
-import com.devsuperior.dslist.repositories.GameService;
+import com.devsuperior.dslist.services.GameService;
 
 @RestController
 @RequestMapping(value = "/games")
