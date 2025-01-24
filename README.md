@@ -8,6 +8,8 @@ Uma aplicação backend construída durante **Semana DevSuperior** , evento orga
 
 A aplicação consiste em uma pesquisa de jogos por duas categorias, Aventura e RPG e Jogos de Plataforma , onde os dados são coletados no banco de dados, e depois são listados na API.
 
+Ele foi desenvolvido com o objetivo de praticar e conhecer o framework Spring Boot.
+
 ## Modelo conceitual
 ![Modelo de domínio DSList](https://github.com/gustavoHazambuja/Images/blob/main/dslistProjeto/UML.png)
 
