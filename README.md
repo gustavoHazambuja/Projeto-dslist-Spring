@@ -25,7 +25,7 @@ Ele foi desenvolvido com o objetivo de praticar e conhecer o framework Spring Bo
 ## Back end
 - Java
 - Spring Boot
-- JPA/Hibernate
+- JPA / Hibernate
 - Maven
   
 ## Implantação em produção
